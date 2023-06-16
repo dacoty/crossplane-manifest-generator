@@ -1,0 +1,6 @@
+- providername: provider-helm
+  providerpackage: xpkg.upbound.io/crossplane-contrib/provider-helm:v0.15.0
+- providername: provider-aws
+  providerpackage: xpkg.upbound.io/upbound/provider-aws:v0.36.0
+- providername: provider-kubernetes
+  providerpackage: xpkg.upbound.io/crossplane-contrib/provider-kubernetes:v0.9.0
