@@ -1,5 +1,6 @@
 # Crossplane Manifest Generator
 
+### NOTE: this is an old WIP that will migrate out of github soon. please do not depend on this to do anything important. 
 ---
 
 ### Features
